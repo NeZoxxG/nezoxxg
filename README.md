@@ -1,5 +1,6 @@
-Header
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+NeZoxxG!&repeat=false" alt="Typing SVG" />
+</p>
 
 ## 🧭 Areas of Interest & Development
 ### - _Information Security_
@@ -21,6 +22,7 @@ Header
 </p>
 
 ## 📊 GitHub Stats
-![Stats](https://vercel.app)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeZoxxG&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
