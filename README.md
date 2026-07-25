@@ -1,16 +1,26 @@
-## Hi there 👋
+Header
 
-<!--
-**NeZoxxG/nezoxxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🧭 Areas of Interest & Development
+- _Information Security_
+- _Focusing on Go development_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+**🧑🏽‍💻 Languages**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py" />
+  </a>
+</p>
+
+**⚒️ Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershell " />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NeZoxxG=anuraghazra&hide=contribs,prs)
+
+
