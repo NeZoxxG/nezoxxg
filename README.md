@@ -9,7 +9,7 @@ Header
 ### **🧑🏽‍💻 Languages** 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py" />
+    <img src="https://skillicons.dev/icons?i=c,py,go" />
   </a>
 </p>
 
@@ -21,6 +21,6 @@ Header
 </p>
 
 ## 📊 GitHub Stats
-
+![Stats](https://vercel.app)
 
 
