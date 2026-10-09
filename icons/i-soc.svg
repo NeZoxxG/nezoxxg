@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="38" viewBox="0 0 900 38">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="32" viewBox="0 0 560 32">
   <defs>
-    <filter id="g" x="-10%" y="-50%" width="120%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.6" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <g filter="url(#g)" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="21" font-weight="700">
-    <text x="40" y="26"><tspan fill="#8B949E">-</tspan><tspan fill="#E6EDF3" dx="10">SOC Analyst / Threat Hunter</tspan></text>
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="18" font-weight="700">
+    <text x="30" y="22"><tspan fill="#8B949E" filter="url(#g)">-</tspan><tspan fill="#E6EDF3" dx="11">SOC Analyst / Threat Hunter</tspan></text>
   </g>
 </svg>
