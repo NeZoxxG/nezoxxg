@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="50" viewBox="0 0 560 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="60" viewBox="0 0 700 60">
   <defs>
     <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1.6" result="b"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.8" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="26" font-weight="700">
-    <text x="4" y="34"><tspan fill="#58A6FF" filter="url(#g)">&gt;</tspan><tspan fill="#E6EDF3" dx="16">Tech Stack &amp; Tools</tspan></text>
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="32" font-weight="700">
+    <text x="4" y="41"><tspan fill="#58A6FF" filter="url(#g)">&gt;</tspan><tspan fill="#E6EDF3" dx="19">Tech Stack &amp; Tools</tspan></text>
   </g>
 </svg>
