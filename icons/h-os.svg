@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44">
+  <defs>
+    <filter id="g" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#g)" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="24" font-weight="700">
+    <text x="10" y="30"><tspan fill="#58A6FF">&gt;</tspan><tspan fill="#E6EDF3" dx="12">Operating Systems</tspan></text>
+  </g>
+</svg>

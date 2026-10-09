@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56">
+  <defs>
+    <filter id="g" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#g)" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="30" font-weight="700">
+    <text x="10" y="38"><tspan fill="#58A6FF">&gt;</tspan><tspan fill="#E6EDF3" dx="15">Tech Stack &amp; Tools</tspan></text>
+  </g>
+</svg>
