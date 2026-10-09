@@ -1,0 +1,17 @@
+<svg width="800" height="130" viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="b2"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .t { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace; font-size: 68px; font-weight: 700; letter-spacing: 8px; }
+      .p { fill: #58A6FF; }
+      .n { fill: #D6ECFF; }
+      .c { fill: #58A6FF; animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <text x="400" y="88" text-anchor="middle" class="t" filter="url(#glow)"><tspan class="p">&gt; </tspan><tspan class="n">NeZoxxG</tspan><tspan class="c">_</tspan></text>
+</svg>
